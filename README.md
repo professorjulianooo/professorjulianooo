@@ -1,7 +1,10 @@
-## Hi there 👋
+# Sobre mim...
+*Olá, meu nome é Juliano*  
+**Meu e-mail é: juliano.buzinello@escola.pr.gov.br**  
+:smiley: Endereço de emojis:  
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md  
+:smiley:
 
-<!--
-**professorjulianooo/professorjulianooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
