@@ -4,3 +4,9 @@
 
 [YOUTUBE](https://youtube.com)  
 https://github.com/alexandresanlim/Badges4-README.md-Profile#-education-
+
+**BARÃO**
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](htts://www.instagram.com/baraodeantonina_rionegro)  
+
+**JULIANO**
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/julianobuzinello)
